@@ -183,6 +183,10 @@ td{
     font-size: 14px;
 }
 
+.link{
+    text-decoration: none !important;
+    color: white !important;
+}
 
 @media screen and (max-width:768px){
     nav,.row-2,.row-1{
