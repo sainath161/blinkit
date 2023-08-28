@@ -187,6 +187,9 @@ td{
     text-decoration: none !important;
     color: white !important;
 }
+.text{
+    text-align: center;
+}
 
 @media screen and (max-width:768px){
     nav,.row-2,.row-1{
